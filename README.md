@@ -1,18 +1,21 @@
 COVID-19 Data Exploration Project
+
 Overview
 This project explores the global impact of the COVID-19 pandemic using SQL. The dataset includes information on COVID-19 cases, deaths, population, and vaccinations. The analysis employs advanced SQL techniques to uncover insights about infection rates, mortality rates, and vaccination progress across countries and continents.
 
 Skills Demonstrated
-Joins
-Common Table Expressions (CTEs)
-Temporary Tables
-Window Functions
-Aggregate Functions
-Data Type Conversions
-Creating Views
+1. Joins
+2. Common Table Expressions (CTEs)
+3. Temporary Tables
+4. Window Functions
+5. Aggregate Functions
+6. Data Type Conversions
+7. Creating Views
+ 
 Datasets
 CovidDeaths: Contains data on COVID-19 cases, deaths, and population by location.
 CovidVaccinations: Contains data on vaccination progress by location and date.
+
 Key Analyses
 1. Initial Data Overview
 Filtered data to exclude null continents and sorted by location and date for a cleaner view.
