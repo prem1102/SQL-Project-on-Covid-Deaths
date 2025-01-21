@@ -22,43 +22,43 @@ Key Analyses
  
 - Filtered data to exclude null continents and sorted by location and date for a cleaner view.
 
-3. Total Cases vs. Total Deaths
+2. Total Cases vs. Total Deaths
 
 - Calculated the likelihood of dying from COVID-19 by dividing total deaths by total cases.
 
-5. Total Cases vs. Population
+3. Total Cases vs. Population
 
 - Analyzed the percentage of the population infected with COVID-19.
 
-7. Highest Infection and Death Rates
+4. Highest Infection and Death Rates
  
 - Identified countries with the highest infection rates relative to their populations.
 - Determined countries with the highest death counts.
 
-9. Continental Analysis
+5. Continental Analysis
  
 - Assessed continents with the highest death counts relative to their populations.
 
-11. Global Numbers
+6. Global Numbers
  
-Summarized global total cases, deaths, and the percentage of deaths relative to cases.
+- Summarized global total cases, deaths, and the percentage of deaths relative to cases.
 
-13. Vaccination Progress
+7. Vaccination Progress
  
-Compared total population to vaccination data to calculate the percentage of the population vaccinated.
+- Compared total population to vaccination data to calculate the percentage of the population vaccinated.
 
-15. Advanced Techniques
+8. Advanced Techniques
  
-Used CTEs, temporary tables, and views to simplify and organize complex queries.
-Created a reusable view for visualizing vaccination data.
+- Used CTEs, temporary tables, and views to simplify and organize complex queries.
+- Created a reusable view for visualizing vaccination data.
 
 Highlights of SQL Techniques
 
-Joins: Combined data from CovidDeaths and CovidVaccinations to correlate vaccination progress with population and infection data.
-CTEs: Simplified partitioned calculations to derive rolling vaccination totals.
-Temporary Tables: Stored intermediate results for subsequent calculations.
-Window Functions: Used for cumulative calculations, such as rolling totals for vaccinations.
-Aggregate Functions: Extracted maximum values and summed data to find key insights.
+- Joins: Combined data from CovidDeaths and CovidVaccinations to correlate vaccination progress with population and infection data.
+- CTEs: Simplified partitioned calculations to derive rolling vaccination totals.
+- Temporary Tables: Stored intermediate results for subsequent calculations.
+- Window Functions: Used for cumulative calculations, such as rolling totals for vaccinations.
+- Aggregate Functions: Extracted maximum values and summed data to find key insights.
 
 Usage
 This SQL project is designed for analytical purposes and can be integrated with visualization tools like Power BI or Tableau for graphical representation of the insights derived.
