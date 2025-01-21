@@ -61,12 +61,12 @@ Highlights of SQL Techniques
 - Aggregate Functions: Extracted maximum values and summed data to find key insights.
 
 Usage
-This SQL project is designed for analytical purposes and can be integrated with visualization tools like Power BI or Tableau for graphical representation of the insights derived.
+- This SQL project is designed for analytical purposes and can be integrated with visualization tools like Power BI or Tableau for graphical representation of the insights derived.
 
 Future Work
-Expand analysis to include trends over time using date-based grouping.
-Incorporate demographic data for more granular insights.
-Visualize results for better communication of key findings.
+- Expand analysis to include trends over time using date-based grouping.
+- Incorporate demographic data for more granular insights.
+- Visualize results for better communication of key findings.
 
 Conclusion
-This project demonstrates the power of SQL in data exploration and analysis. It showcases how complex queries can yield actionable insights into a global crisis like the COVID-19 pandemic.
+- This project demonstrates the power of SQL in data exploration and analysis. It showcases how complex queries can yield actionable insights into a global crisis like the COVID-19 pandemic.
